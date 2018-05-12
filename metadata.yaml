@@ -1,5 +1,8 @@
 _repo: The-Desire-of-the-Moth--and-the-Come-On_11960
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rhodes, Eugene Manlove
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '4149'
     url: http://www.gutenberg.org/2009/agents/4149
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11960#The-Desire-of-the-Moth--and-the-Come-On
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
